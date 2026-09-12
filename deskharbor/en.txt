@@ -1,0 +1,43 @@
+Privacy Policy
+
+DeskHarbor (the “App”) respects your privacy and strives to protect personal information.
+
+1. Collection of personal information
+
+The App does not collect personal information that identifies you.
+
+The App does not require account registration or ask you to enter personal details such as your name, address, phone number, or email address.
+
+2. How data is handled
+
+Settings, information used to determine trial or purchase status, and any diagnostic logs created when needed are stored on your computer.
+
+To show and work with desktop files and folders, the App may access information on your device. That content is not sent by the App to the developer or to third-party servers.
+
+Keyboard and mouse input is processed only on your device, and only as needed for features such as detecting shortcuts that open the palette. The App does not record your keystrokes (keylogging) and does not send input content to the developer or to third parties.
+
+Aside from Microsoft Store purchase and license checks described below, the App does not send the data above from your device to the developer or to third-party servers.
+
+3. External services (Microsoft Store)
+
+The App does not use separate analytics or advertising services for the purpose of collecting your personal information.
+
+Purchases of full features and license verification are handled through the Microsoft Store. Payment details, account information, and purchase history are governed by Microsoft’s services and Microsoft’s privacy policy. The App’s developer does not directly receive or store payment details such as credit card numbers.
+
+4. Other apps
+
+LazySwitch is a separately distributed optional app and is not included with DeskHarbor. DeskHarbor does not collect or transmit personal information through LazySwitch.
+
+5. Sharing with third parties
+
+The developer does not provide, sell, or share information obtained by the App with third parties.
+
+However, Microsoft may process certain information as part of Microsoft Store purchases and licensing. Please refer to Microsoft’s privacy policy for details.
+
+6. Changes to this policy
+
+This policy may be updated as needed. When changes are made, the updated policy will be made available through the App or the App’s public pages.
+
+7. Contact
+
+For questions about this policy, contact the publisher at studiomobara@gmail.com.
