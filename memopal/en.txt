@@ -1,0 +1,47 @@
+Privacy Policy
+
+MemoPalette (also known as MemoPal; the "App") respects your privacy and strives to protect personal information.
+
+1. Collection of personal information
+
+The developer does not collect personal information that identifies you through the App.
+
+For ordinary use of the App (creating, editing, and viewing notes), the App does not require account registration and does not ask you to enter personal details such as your name, address, phone number, or email address.
+
+2. How data is handled (offline)
+
+Notes you create or edit, and your settings, are stored as files on your computer.
+
+The App itself does not connect to the internet and can be used offline. Only if you use the optional OneDrive phone feature does OneDrive use the internet for file sync.
+
+That data is not sent by the App to the developer. The developer does not operate a server to store or relay note content.
+
+3. Optional feature: "Also update from phone" (OneDrive)
+
+Only if you turn on "Also update from phone" in the menu does the App write a reference copy of your note to, and import append files from, your own OneDrive sync folder (MemoPal).
+
+In that case, data is exchanged on OneDrive tied to your own Microsoft account. The developer does not receive your note text.
+
+This feature is off by default. Using it requires an internet connection and your own OneDrive (Microsoft account).
+
+Sign-in with a Microsoft account and access to OneDrive files on the phone page follow Microsoft's services and Microsoft's privacy policy. The App's developer does not obtain or store your Microsoft account password.
+
+4. External services
+
+The App does not use separate analytics or advertising services for the purpose of collecting your personal information.
+
+Only when the optional feature above is turned on does the App use your own OneDrive / Microsoft account.
+
+5. Sharing with third parties
+
+The developer does not provide, sell, or share information obtained by the App with third parties.
+
+However, when you use the optional feature above, Microsoft may process information related to OneDrive and account authentication. Please refer to Microsoft's privacy policy for details.
+
+6. Changes to this policy
+
+This policy may be updated as needed. When changes are made, the updated policy will be made available through the App or the App's public pages.
+
+7. Contact
+
+For questions about this policy, contact the publisher at studiomobara@gmail.com.
