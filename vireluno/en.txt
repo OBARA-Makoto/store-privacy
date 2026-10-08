@@ -1,0 +1,47 @@
+Privacy Policy
+
+Vireluno (the “App”) respects your privacy and strives to protect personal information.
+
+The App is a Windows application for capturing the screen and adding annotations or simple edits to images (VirelunoCapture and VirelunoEditor).
+
+1. Collection of personal information
+
+The developer does not collect personal information that identifies you through the App.
+
+The App does not require account registration or ask you to enter personal details such as your name, address, phone number, or email address.
+
+2. How data is handled (on your device)
+
+Captured screens, images you are editing, text recognized by OCR, settings, locations of recently opened files, and the text of your last annotation are kept as files or temporary files on your computer. Settings are stored in your application data folder.
+
+Screen capture, text recognition (Windows OCR, or Tesseract if you install it separately), and annotation editing all run on your device. The App does not send images or recognized text to the developer or to third-party servers.
+
+Keyboard shortcuts are registered with the operating system only so you can start a capture. The App does not record your keystrokes (keylogging) and does not send input content to the developer or to third parties.
+
+Images or text you copy are placed on the Windows clipboard. Files you save remain in the location you choose.
+
+3. Sharing you choose
+
+Only when you use Share does the App open the Windows share UI and pass the image to the destination you select. How that image is handled depends on that destination. The developer does not receive the image.
+
+When you open a link such as the one in About, your browser shows a public page. The App does not attach your personal information to that action.
+
+4. External services (Microsoft Store)
+
+The App does not use separate analytics or advertising services for the purpose of collecting your personal information.
+
+If you get the App from the Microsoft Store, acquisition, updates, and any in-app purchases or license checks that are offered are handled through the Microsoft Store. Payment details, account information, and purchase history are governed by Microsoft’s services and Microsoft’s privacy policy. The App’s developer does not directly receive or store payment details such as credit card numbers.
+
+5. Sharing with third parties
+
+The developer does not provide, sell, or share information obtained by the App with third parties.
+
+This does not cover Microsoft Store processing described above, or an image you choose to send to a share destination. When a destination or Microsoft processes information, please refer to that provider’s privacy policy.
+
+6. Changes to this policy
+
+This policy may be updated as needed. When changes are made, the updated policy will be made available through the App or the App’s public pages.
+
+7. Contact
+
+For questions about this policy, contact the publisher at studiomobara@gmail.com.

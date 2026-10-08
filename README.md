@@ -30,6 +30,14 @@ Store listing name: **MemoPalette**. Product / UI short name: **MemoPal**.
 https://github.com/OBARA-Makoto/store-privacy/blob/main/memopal/ja.txt  
 https://github.com/OBARA-Makoto/store-privacy/blob/main/memopal/en.txt
 
+## Vireluno
+
+- Japanese: [vireluno/ja.txt](vireluno/ja.txt)
+- English: [vireluno/en.txt](vireluno/en.txt)
+
+https://github.com/OBARA-Makoto/store-privacy/blob/main/vireluno/ja.txt  
+https://github.com/OBARA-Makoto/store-privacy/blob/main/vireluno/en.txt
+
 Repo home: https://github.com/OBARA-Makoto/store-privacy
 
 ## Contact
