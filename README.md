@@ -38,6 +38,16 @@ https://github.com/OBARA-Makoto/store-privacy/blob/main/memopal/en.txt
 https://github.com/OBARA-Makoto/store-privacy/blob/main/vireluno/ja.txt  
 https://github.com/OBARA-Makoto/store-privacy/blob/main/vireluno/en.txt
 
+## CursorBeacon
+
+English is the primary text. Japanese is a translation.
+
+- English: [cursorbeacon/en.txt](cursorbeacon/en.txt)
+- Japanese: [cursorbeacon/ja.txt](cursorbeacon/ja.txt)
+
+https://github.com/OBARA-Makoto/store-privacy/blob/main/cursorbeacon/en.txt  
+https://github.com/OBARA-Makoto/store-privacy/blob/main/cursorbeacon/ja.txt
+
 Repo home: https://github.com/OBARA-Makoto/store-privacy
 
 ## Contact

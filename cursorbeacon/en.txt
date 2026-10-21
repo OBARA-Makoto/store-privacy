@@ -1,0 +1,71 @@
+Privacy Policy
+
+CursorBeacon (the "App") respects your privacy and strives to protect personal information.
+
+This English text is the primary version of this policy. A Japanese translation is provided alongside it.
+
+1. Collection of personal information
+
+The developer does not collect personal information that identifies you through the App.
+
+The App does not require account registration and does not ask you to enter personal details such as your name, address, phone number, or email address.
+
+2. How data is handled
+
+Settings (effect, color, sensitivity, hotkey, language, and similar options) are stored on your computer at:
+
+%AppData%\Roaming\mobara\CursorBeacon\config.ini
+
+If you enable "Run at Windows startup," a shortcut is created in the Windows Startup folder.
+
+The App stores a first-launch date on your device, in the registry for your Windows user account, only to apply the trial period. That record stays on your device.
+
+Only if you enable it in the configuration file, a local performance log (ProfileTiming.log) may be written in the same folder. It is off by default.
+
+Aside from Microsoft Store purchase and license checks described below, the App does not send the data above from your device to the developer or to third-party servers.
+
+3. Mouse and keyboard input
+
+The App receives input from Windows to show visual feedback at the cursor and to detect quick mouse movement ("shake").
+
+The App does not record typed characters, passwords, IME text, clipboard content, or the contents of your screen, and does not send input content to the developer or to third parties.
+
+On your device, the App may use the following mechanisms:
+
+- Get the cursor position and, when you use "recall mouse," move the pointer (GetCursorPos / SetCursorPos)
+
+- Detect mouse movement while the App is in the background, for shake detection and effects (Raw Input)
+
+- A shortcut you configure to recall the mouse (RegisterHotKey; default Ctrl + Alt + Space)
+
+- Check whether modifier keys or mouse buttons are down (GetAsyncKeyState), only to avoid false shake detection while dragging
+
+- Dismiss certain full-screen overlays when you press a key or use the mouse. Keyboard Raw Input is used for that overlay behavior and for input-state checks. Key values are not stored.
+
+The cursor-zoom effect may read the system arrow cursor on your device in order to draw a larger cursor. That image is not saved as a file and is not sent off the device.
+
+The App does not use low-level hooks (WH_KEYBOARD_LL / WH_MOUSE_LL), keyloggers, or IME APIs to read typed characters.
+
+4. External services
+
+Core features work offline. The App does not use separate analytics or advertising services to collect your personal information.
+
+Only when you choose to:
+
+- Purchase full features through the Microsoft Store. Payment and licensing are governed by Microsoft's services and Microsoft's privacy policy. The developer does not directly receive or store payment details such as credit card numbers.
+
+- Open the Microsoft Store product page, or the publisher's public page, in your system browser from About or a menu.
+
+5. Sharing with third parties
+
+The developer does not provide, sell, or share information obtained by the App with third parties.
+
+However, Microsoft may process certain information as part of Microsoft Store purchases and licensing. Please refer to Microsoft's privacy policy for details.
+
+6. Changes to this policy
+
+This policy may be updated as needed. When changes are made, the updated policy will be made available through the App or the App's public pages.
+
+7. Contact
+
+For questions about this policy, contact the publisher at studiomobara@gmail.com.
