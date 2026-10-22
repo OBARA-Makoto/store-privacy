@@ -38,11 +38,11 @@ On your device, the App may use the following mechanisms:
 
 - A shortcut you configure to recall the mouse (RegisterHotKey; default Ctrl + Alt + Space)
 
-- Check whether modifier keys or mouse buttons are down (GetAsyncKeyState), only to avoid false shake detection while dragging
+- Check whether modifier keys or mouse buttons are down (GetAsyncKeyState), to avoid false shake detection while dragging. While you assign a shortcut in Settings, the App also reads the keys you press for that assignment. It stores only the shortcut you choose, in the settings file above, and does not keep a log of other keys.
 
 - Dismiss certain full-screen overlays when you press a key or use the mouse. Keyboard Raw Input is used for that overlay behavior and for input-state checks. Key values are not stored.
 
-The cursor-zoom effect may read the system arrow cursor on your device in order to draw a larger cursor. That image is not saved as a file and is not sent off the device.
+The cursor-zoom effect may read the system arrow cursor on your device in order to draw a larger cursor. While that effect is showing, the App temporarily replaces the system arrow with a hidden cursor and restores it when the effect ends. The cursor image and that replacement are not saved as a file and are not sent off the device.
 
 The App does not use low-level hooks (WH_KEYBOARD_LL / WH_MOUSE_LL), keyloggers, or IME APIs to read typed characters.
 
